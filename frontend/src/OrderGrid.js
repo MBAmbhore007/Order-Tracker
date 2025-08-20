@@ -7,7 +7,7 @@ import "ag-grid-community/styles/ag-grid.css";
 import "ag-grid-community/styles/ag-theme-alpine.css";
 import "./OrderGrid.css";
 
-// Register AG Grid community modules (required since v34+)
+// Register AG Grid community modules as required since v34+
 ModuleRegistry.registerModules([AllCommunityModule]);
 
 const apiUrl = "http://localhost:5000/api/orders";

@@ -12,8 +12,6 @@ This is a full-stack Order Tracker application built with React on the frontend 
 - Export orders data as CSV file.
 - Frontend and backend validation for data integrity.
 
-## Setup Instructions
-
 ### Prerequisites
 
 - Node.js (v14 or higher recommended)

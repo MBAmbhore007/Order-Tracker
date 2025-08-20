@@ -1,0 +1,41 @@
+.ag-row-odd {
+  background: #f8fafc;
+}
+
+.ag-row-even {
+  background: #f1f5f9;
+}
+
+.badge {
+  padding: 4px 12px;
+  border-radius: 6px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.badge-warning {
+  background-color: #f7b84b;
+}
+.badge-info {
+  background-color: #5bc0de;
+}
+.badge-success {
+  background-color: #5cb85c;
+}
+
+button {
+  padding: 8px 18px;
+  background: #2563eb;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  margin-right: 6px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+button:hover {
+  background: #1e40af;
+}
